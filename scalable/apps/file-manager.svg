@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   id="svg20"
+   sodipodi:docname="file-manager.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="8.4189901"
+     inkscape:cx="9.8586646"
+     inkscape:cy="24.230935"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g336" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a-9"
+       x1="42"
+       x2="44"
+       y1="51"
+       y2="55"
+       gradientTransform="scale(.26458)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="matrix(0.22323779,0,0,0.22323779,-120.11847,-127.26208)"
+     id="g336"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g
+       transform="translate(32,64)"
+       id="g330">
+      <path
+         d="m 576,544 c 0,-17.673 -14.327,-32 -32,-32 0,0 0,0 0,0 -17.673,0 -32,14.327 -32,32 0,0 0,0 0,0 0,17.673 14.327,32 32,32 v 0 c 17.673,0 32,-14.327 32,-32 z"
+         style="fill:#f5ab00;fill-opacity:1"
+         id="path328" />
+    </g>
+    <g
+       transform="matrix(0.0729171,0,0,0.0729171,557,589.333)"
+       id="g334">
+      <path
+         d="m 572.6,270.3 -96,192 C 471.2,473.2 460.1,480 447.1,480 H 64 C 28.65,480 0,451.34 0,416 V 96 C 0,60.66 28.65,32 64,32 h 117.5 c 16.97,0 33.25,6.742 45.26,18.75 L 275.9,96 H 416 c 35.35,0 64,28.66 64,64 v 32 h -48 v -32 c 0,-8.824 -7.178,-16 -16,-16 H 256 L 192.8,84.69 C 189.8,81.66 185.8,80 181.5,80 H 64 C 55.18,80 48,87.18 48,96 V 384 L 119.16,241.7 C 124.6,230.8 135.7,224 147.8,224 H 544 c 23.7,0 39.2,25 28.6,46.3 z"
+         style="fill:#ffffff;fill-rule:nonzero"
+         id="path332" />
+    </g>
+  </g>
+</svg>

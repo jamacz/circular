@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="code.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="3.9906721"
+     inkscape:cx="-9.7727899"
+     inkscape:cy="-7.7681151"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <g
+     transform="matrix(0.22323779,0,0,0.22323779,-284.42148,-141.54929)"
+     id="g356"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g
+       transform="translate(768,128)"
+       id="g350">
+      <path
+         d="m 576,544 c 0,-17.673 -14.327,-32 -32,-32 0,0 0,0 0,0 -17.673,0 -32,14.327 -32,32 0,0 0,0 0,0 0,17.673 14.327,32 32,32 v 0 c 17.673,0 32,-14.327 32,-32 z"
+         style="fill:#00a8fd"
+         id="path348" />
+    </g>
+    <g
+       transform="matrix(0.952381,0,0,0.952381,763.381,-135.619)"
+       id="g354">
+      <path
+         d="m 583.407,827.375 c 0.74,-0.437 1.661,-0.488 2.459,-0.102 l 8.647,4.18 c 0.909,0.439 1.487,1.363 1.487,2.376 v 28.342 c 0,1.014 -0.578,1.937 -1.487,2.377 l -8.647,4.179 c -0.743,0.36 -1.593,0.34 -2.304,-0.018 -0.247,-0.124 -0.477,-0.288 -0.679,-0.492 l -16.554,-15.171 -7.21,5.498 c -0.672,0.512 -1.61,0.47 -2.234,-0.1 l -2.313,-2.113 c -0.762,-0.697 -0.763,-1.902 -10e-4,-2.6 l 6.253,-5.731 -6.253,-5.731 c -0.762,-0.698 -0.761,-1.903 10e-4,-2.6 l 2.313,-2.113 c 0.624,-0.57 1.562,-0.612 2.234,-0.1 l 7.21,5.498 16.554,-15.171 c 0.159,-0.16 0.336,-0.297 0.524,-0.408 z M 572.946,848 l 12.56,9.578 v -19.156 z"
+         style="fill:#ffffff;fill-rule:nonzero"
+         id="path352" />
+    </g>
+  </g>
+</svg>

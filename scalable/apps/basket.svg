@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg2678"
+   sodipodi:docname="notes.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2682" />
+  <sodipodi:namedview
+     id="namedview2680"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="11.90625"
+     inkscape:cx="32.08399"
+     inkscape:cy="32"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2678" />
+  <g
+     transform="matrix(0.22323779,0,0,0.22323779,-284.42148,-177.26734)"
+     id="g522"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g
+       transform="translate(768,288)"
+       id="g516">
+      <path
+         d="m 576,544 c 0,-17.673 -14.327,-32 -32,-32 0,0 0,0 0,0 -17.673,0 -32,14.327 -32,32 0,0 0,0 0,0 0,17.673 14.327,32 32,32 v 0 c 17.673,0 32,-14.327 32,-32 z"
+         style="fill:#cc33ff"
+         id="path514" />
+    </g>
+    <g
+       transform="matrix(0.0703125,0,0,0.0703125,1296.25,814)"
+       id="g520">
+      <path
+         d="M 0,64 V 96 H 448 V 64 C 448,28.7 419.3,0 384,0 H 64 C 28.7,0 0,28.7 0,64 Z m 0,64 v 320 c 0,35.3 28.7,64 64,64 h 320 c 35.3,0 64,-28.7 64,-64 V 128 Z m 96,96 c 0,-8.8 7.2,-16 16,-16 h 224 c 8.8,0 16,7.2 16,16 0,8.8 -7.2,16 -16,16 H 112 c -8.8,0 -16,-7.2 -16,-16 z m 0,96 c 0,-8.8 7.2,-16 16,-16 h 224 c 8.8,0 16,7.2 16,16 0,8.8 -7.2,16 -16,16 H 112 c -8.8,0 -16,-7.2 -16,-16 z m 0,96 c 0,-8.8 7.2,-16 16,-16 h 96 c 8.8,0 16,7.2 16,16 0,8.8 -7.2,16 -16,16 h -96 c -8.8,0 -16,-7.2 -16,-16 z"
+         style="fill:#ffffff;fill-rule:nonzero"
+         id="path518" />
+    </g>
+  </g>
+</svg>

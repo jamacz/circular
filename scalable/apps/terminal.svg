@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="terminal.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="4.2094951"
+     inkscape:cx="4.7511636"
+     inkscape:cy="1.4253491"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="a"
+       x1="43"
+       x2="49"
+       y1="44"
+       y2="50"
+       gradientTransform="scale(.26458)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="matrix(0.22323779,0,0,0.22323779,-284.42148,-212.98539)"
+     id="g448"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g
+       transform="translate(768,448)"
+       id="g438">
+      <path
+         d="m 576,544 c 0,-17.673 -14.327,-32 -32,-32 -10e-4,0 -10e-4,0 -0.002,0 C 526.326,512 512,526.326 512,543.998 v 0.004 C 512,561.674 526.326,576 543.998,576 H 544 c 17.673,0 32,-14.327 32,-32 0,0 0,0 0,0 z"
+         style="fill:#575e75"
+         id="path436" />
+    </g>
+    <g
+       transform="matrix(0.75,0,0,0.5,1260,-105)"
+       id="g442">
+      <path
+         d="M 46.521,2165.33 59.193,2178 c 0,0 -12.672,12.67 -12.672,12.67 -1.225,1.23 -1.556,3.71 -0.74,5.55 0.817,1.84 2.474,2.33 3.698,1.11 l 16,-16 c 0.742,-0.74 1.188,-1.99 1.188,-3.33 0,-1.34 -0.446,-2.59 -1.188,-3.33 l -16,-16 c -1.224,-1.22 -2.881,-0.73 -3.698,1.11 -0.816,1.84 -0.485,4.32 0.74,5.55 z"
+         style="fill:#ffffff"
+         id="path440" />
+    </g>
+    <g
+       transform="matrix(1,0,0,0.5,1248,-77)"
+       id="g446">
+      <path
+         d="m 48,2166 h 16 c 1.104,0 2,-1.79 2,-4 0,-2.21 -0.896,-4 -2,-4 H 48 c -1.104,0 -2,1.79 -2,4 0,2.21 0.896,4 2,4 z"
+         style="fill:#ffffff"
+         id="path444" />
+    </g>
+  </g>
+</svg>

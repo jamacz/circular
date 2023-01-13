@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933 16.933"
+   version="1.1"
+   id="svg2112"
+   sodipodi:docname="mailspring.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2116" />
+  <sodipodi:namedview
+     id="namedview2114"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="11.90625"
+     inkscape:cx="32.08399"
+     inkscape:cy="32"
+     inkscape:window-width="1850"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2112">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2257" />
+  </sodipodi:namedview>
+  <g
+     transform="matrix(0.22323779,0,0,0.22323779,-120.11847,-162.98012)"
+     id="g346"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2">
+    <g
+       transform="translate(32,224)"
+       id="g340">
+      <path
+         d="m 576,544 c 0,-17.673 -14.327,-32 -32,-32 0,0 0,0 0,0 -17.673,0 -32,14.327 -32,32 0,0 0,0 0,0 0,17.673 14.327,32 32,32 v 0 c 17.673,0 32,-14.327 32,-32 z"
+         style="fill:#00c9db"
+         id="path338" />
+    </g>
+    <g
+       transform="matrix(0.078125,0,0,0.078125,556,748)"
+       id="g344">
+      <path
+         d="M 48,64 C 21.5,64 0,85.5 0,112 c 0,15.1 7.1,29.3 19.2,38.4 l 217.6,163.2 c 11.4,8.5 27,8.5 38.4,0 L 492.8,150.4 C 504.9,141.3 512,127.1 512,112 512,85.5 490.5,64 464,64 Z M 0,176 v 208 c 0,35.3 28.7,64 64,64 h 384 c 35.3,0 64,-28.7 64,-64 V 176 L 294.4,339.2 c -22.8,17.1 -54,17.1 -76.8,0 z"
+         style="fill:#ffffff;fill-rule:nonzero"
+         id="path342" />
+    </g>
+  </g>
+</svg>
